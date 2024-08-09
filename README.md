@@ -45,6 +45,16 @@ Com essa organização, fica muito mais fácil encontrar uma foto específica, e
 
 ## Definindo um Modelo
 
+Como criar uma classe chamada Filme para modelar os dados de um `filme`.
+
+Criamos uma estrutura para a classe `Filme` definindo as propriedades que todo filme precisa ter: `nome, anoLancamento, genero e nota`.
+
+Vimos como declarar os tipos das variáveis dentro da classe, como `string, int e float`, e como acessar essas propriedades usando o operador seta (`->`).
+
+Também aprendemos a criar um objeto da classe `Filme usando` a palavra-chave `new` e como retornar um objeto da classe `Filme` em uma função.
+
+No final, corrigimos os erros que encontramos ao executar o código e aprendemos a importar a classe `Filme no arquivo index.php`.
+
 ## Valor vs Referência
 
 # Controlando o Acesso
